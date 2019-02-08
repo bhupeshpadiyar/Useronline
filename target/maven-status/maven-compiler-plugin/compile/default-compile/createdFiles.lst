@@ -1,0 +1,6 @@
+com/org/nic/contract/UserRepository.class
+com/org/nic/UseronlineApplication.class
+com/org/nic/controller/UserController.class
+com/org/nic/ServletInitializer.class
+com/org/nic/entity/UserProfile.class
+com/org/nic/service/UserService.class
